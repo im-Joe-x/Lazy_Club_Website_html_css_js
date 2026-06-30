@@ -1,23 +1,23 @@
-# 😴 Lazy People Club - Multi Page Website
+#  Lazy People Club - Multi Page Website
 
 A fun and creative multi-page website developed using **HTML**, **CSS**, and **JavaScript** as part of a Web Technology project. The website is designed around the humorous concept of a **Lazy People Club**, providing an attractive user interface with interactive features and client-side form validation.
 
 ---
 
-## 📌 Features
+##  Features
 
-- 🏠 Home page with attractive hero section
-- 📝 Registration form with JavaScript validation
-- 📖 About page describing the club
-- 🖼️ Gallery with hover animation effects
-- 📞 Contact page
-- 🎨 Responsive and modern UI design
-- 🧭 Navigation bar for seamless page switching
-- ⚡ Dynamic validation messages using JavaScript
+-  Home page with attractive hero section
+-  Registration form with JavaScript validation
+-  About page describing the club
+-  Gallery with hover animation effects
+-  Contact page
+-  Responsive and modern UI design
+-  Navigation bar for seamless page switching
+-  Dynamic validation messages using JavaScript
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
@@ -25,7 +25,7 @@ A fun and creative multi-page website developed using **HTML**, **CSS**, and **J
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 LazyPeopleClub/
@@ -50,7 +50,7 @@ LazyPeopleClub/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone this repository.
 
@@ -66,17 +66,17 @@ No additional software or installation is required.
 
 ---
 
-## 📷 Website Pages
+##  Website Pages
 
-- 🏠 Home
-- 📝 Registration
-- 📖 About
-- 🖼️ Gallery
-- 📞 Contact
+-  Home
+-  Registration
+-  About
+-  Gallery
+-  Contact
 
 ---
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 This project demonstrates:
 
@@ -90,7 +90,7 @@ This project demonstrates:
 
 ---
 
-## ✨ Form Validation
+##  Form Validation
 
 The registration form validates:
 
@@ -102,7 +102,7 @@ Funny validation messages are displayed based on the user's input.
 
 ---
 
-## 🎨 UI Highlights
+##  UI Highlights
 
 - Background images
 - Hover effects
@@ -112,13 +112,13 @@ Funny validation messages are displayed based on the user's input.
 
 ---
 
-## 📖 Project Purpose
+##  Project Purpose
 
 This project was created as part of the **Web Technology** course to demonstrate the implementation of a multi-page website using HTML, CSS, and JavaScript while applying styling, navigation, and client-side scripting concepts.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Sivajothi M**
 
